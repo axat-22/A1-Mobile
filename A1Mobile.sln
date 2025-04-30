@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A1Mobile", "A1Mobile.csproj", "{34783B4F-1CA5-4F68-8B71-9B4339382188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34783B4F-1CA5-4F68-8B71-9B4339382188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34783B4F-1CA5-4F68-8B71-9B4339382188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34783B4F-1CA5-4F68-8B71-9B4339382188}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{34783B4F-1CA5-4F68-8B71-9B4339382188}.Debug|ARM64.Build.0 = Debug|ARM64
+		{34783B4F-1CA5-4F68-8B71-9B4339382188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34783B4F-1CA5-4F68-8B71-9B4339382188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34783B4F-1CA5-4F68-8B71-9B4339382188}.Release|ARM64.ActiveCfg = Release|ARM64
+		{34783B4F-1CA5-4F68-8B71-9B4339382188}.Release|ARM64.Build.0 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {684A6B21-B7F8-40AD-8BAD-F3D998D7D0B9}
+	EndGlobalSection
+EndGlobal
